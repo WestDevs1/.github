@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/WestDevs1?style=for-the-badge&color=0D47A1">
+  <img src="https://img.shields.io/github/followers/WestDevs1?label=Seguidores&style=for-the-badge&color=0D47A1">
 </p>
 
 ---
